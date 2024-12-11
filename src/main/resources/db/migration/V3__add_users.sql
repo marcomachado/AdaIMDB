@@ -1,0 +1,3 @@
+insert into users (id, username, password, firstname, lastname) values (1, 'mickey', '$2a$12$NoHm2v6N36xBWR791iIrNe3./ZTLLMSomYNGlBb0e61Cm7aRH4P7e', 'Mickey', 'Mouse');
+insert into users (id, username, password, firstname, lastname) values (2, 'minnie', '$2a$12$M1Xvx90NAU9tiKhIBA/XW.HQDyQUH1xwZSEtf.vvmL2dn0ouRK9YO', 'Minnie', 'Mouse');
+insert into users (id, username, password, firstname, lastname) values (3, 'donald', '$2a$12$5pON./iWS5u5Yk52WACD3OuoXkF3zjqOnl4O5IZOVki6B6NulR7za', 'Donald', 'Duck');
